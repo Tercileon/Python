@@ -27,5 +27,5 @@
 
 ---
 
-|[Introduction to Python](/01_python_features/01_python_intro.md)|
+|[Next Topic](/01_python_features/01_python_intro.md)|
 |---|
