@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Running Python
+---
+
+## Running Python
 
 ![](../.gitbook/assets/interp.png)
 
@@ -80,4 +83,4 @@ Hello World for Python 3!
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/README.md" rel="Return to TOC"> Continue to Next Topic </a>
+[Next Topic](/02_Data_Types/README.md)
