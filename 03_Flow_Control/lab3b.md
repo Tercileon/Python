@@ -1,0 +1,21 @@
+<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
+# Lab 3B
+
+## Instructions:
+
+* You are provided with a text file that contains the best song lyrics in the world
+  * Problem is... the song lyrics are encrypted with a simple XOR.
+* You will need to decrypt the lyrics
+  * The key is 27
+  * You have been provided with a decent chunk of the code with conditionals and loops already created...
+  * Feel free to create yours from scratch if you want a greater challange. 
+* You will need to think outside the box. Remember what XOR is, the type of data it acts on, how much data, etc. 
+
+## Requirments:
+
+* Adhere to PEP8 \(Comments, formatting, style, etc\)
+* Follow instructions above
+
+---
+<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/04_if_elif_else.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
