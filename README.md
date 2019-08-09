@@ -20,7 +20,5 @@
 
 ---
 
-**Next Topic**
-
-|[Python Features](/01_python_features/README.md)|
+|[Next Topic](/01_python_features/README.md)|
 |---|
