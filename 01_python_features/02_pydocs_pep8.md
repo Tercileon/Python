@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 # PyDocs & PEP8
 
@@ -86,4 +87,5 @@ Notice the separation? Let's get into that and explain it.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/01_python_features/03_objects.md" rel="Return to TOC"> Continue to Next Topic </a>
+|[Objects](/01_python_features/03_objects.md)|
+|---|
