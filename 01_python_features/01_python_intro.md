@@ -1,7 +1,10 @@
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Introduction to Python
+---
+
+## Introduction to Python
 
 ![](../.gitbook/assets/guido.jpg)
 
@@ -31,4 +34,5 @@ Python is a high level programming language used for generic-purpose programming
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/01_python_features/02_pydocs_pep8.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/01_python_features/02_pydocs_pep8.md)|
+|---|
