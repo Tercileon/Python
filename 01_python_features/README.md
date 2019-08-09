@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Python Features
+---
+
+## Python Features
 
 ### **Topics:**
 
@@ -24,4 +27,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/01_python_features/01_python_intro.md" > Continue to Next Topic </a>
+|[Introduction to Python](/01_python_features/01_python_intro.md)|
+|---|
