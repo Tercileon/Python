@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Objects
+---
+
+## Objects
 
 Python has no unboxed or primitive types, no machine values. Instead, **everything in Python is an Object!** Objects involve an abstract way of thinking about programming. Down to the core, an object is just a struct; an encapsulation of variables and functions into a single entity. But on the surface, objects provide inheritance and other powerful uses.
 
@@ -9,4 +12,9 @@ Python has no unboxed or primitive types, no machine values. Instead, **everythi
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/01_python_features/lab1a.md" rel="Return to TOC"> Proceed to Lab 1a </a>
+**Performance Lab**
+
+Please complete performance lab 1A prior to continuing to the next topic.
+
+|[Lab 1A](/01_python_features/lab1a.md)|
+|---|
