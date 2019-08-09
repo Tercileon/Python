@@ -87,5 +87,5 @@ Notice the separation? Let's get into that and explain it.
 
 ---
 
-|[Objects](/01_python_features/03_objects.md)|
+|[Next Topic](/01_python_features/03_objects.md)|
 |---|
