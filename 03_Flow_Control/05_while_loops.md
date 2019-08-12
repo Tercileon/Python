@@ -71,5 +71,5 @@ This gives us a clearer look at how Python increments variables.
 
 ---
 
-|[Lab 3D](03_Flow_Control/lab3d.md)|
+|[Lab 3D](/03_Flow_Control/lab3d.md)|
 |---|
