@@ -42,5 +42,5 @@ Create a fully functional calculator using BOTH functions and lambdas. Create a 
 
 ---
 
-|[Next Topic](04_functions/04_list_comprehension.md)|
+|[Next Topic](/04_functions/04_list_comprehension.md)|
 |---|
