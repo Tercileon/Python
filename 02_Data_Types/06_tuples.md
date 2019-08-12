@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Tuples, range & buffer
+---
 
-## Tuples
+## Tuples, range & buffer
+
+**Tuples**
 
 Tuples are very similar to lists. The major difference is that tuples are **IMMUTABLE!** So just like strings and numbers, you cannot modify it's contents without reassigning. This also means that the length of tuples are set in stone. Parentheses \(round brackets like these\) are commonly used to declare tuples. But unlike lists, the parentheses are not required! You can declare tuples by just using commas.
 
