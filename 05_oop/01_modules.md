@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Modules
+---
+
+## Modules
 
 Modules are reusable code that can be imported into other scripts or programs. Modules are single files in either .py, .pyc or .pyo format. When a module is imported, code that is not wrapped in a function is executed and the functions themselves are added to the namespace... allowing them to be called upon.
 
-## Module Structure
+### Module Structure
 
 ```python
 #/usr/lib/python/site-packages/triangle.py
@@ -42,7 +45,7 @@ if __name__ == '__main__':
 
 In other words, a module is a file containing Python definitions and statements. The file name is the module name with the suffix `.py` appended \(every .py file is a module\). Within a module, the module’s name \(as a string\) is available as the value of the global variable `__name__`.
 
-## Using Modules
+### Using Modules
 
 * First, we import the module. We will learn more coming up. 
 * After the module is imported we can begin utilizing the module's objects. 
@@ -60,7 +63,7 @@ triangle.start()
 # 576 76576500.0 112 73920.0
 ```
 
-## Importing Modules
+### Importing Modules
 
 There are many ways to import modules. The most common way is to import the module simply using the **import** keyword alone. These modules are imported from the same dir as your program. This method prevents collisions by putting the modules objects into it's own namespace.
 
@@ -117,4 +120,5 @@ from triangle import *
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/02_packages.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/02_packages.md)|
+|---|
