@@ -1,12 +1,15 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Scope
+---
+
+## Scope
 
 Scope refers to the visibility of variables. To be more clear, what parts of your program see which variables. In Python, we use the  **LEGB Rule:**
 
 ![](../.gitbook/assets/scope_resolution_1.png)
 
-## Local:
+### Local:
 
 * Defined in the local scope of functions
 
@@ -21,7 +24,7 @@ def sales_tax(amount):
 sales_tax(200)  # Rate cannot be seen here
 ```
 
-## Enclosing-Function Global
+### Enclosing-Function Global
 
 * Refers to variables defined within local scope of functions wrapping other functions
 
@@ -39,7 +42,7 @@ def program():
 program()
 ```
 
-## Global/Module
+### Global/Module
 
 * Variables defined at the top level of files and modules
 
@@ -56,11 +59,11 @@ def sales_tax():
 sales_tax()
 ```
 
-## Built-In
+### Built-In
 
 * Loaded into scope when interpreter starts up. \(Ex: hash\(\), min\(\), dict\(\), print\(\), etc\)
 
-## Modifying Global Variables Within a Different Scope
+### Modifying Global Variables Within a Different Scope
 
 * We can use the **global** keyword to grant access to global variables within a different scope, allowing for modification. 
 
@@ -108,4 +111,5 @@ global :  3
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/04_functions/02_user_functions.md" > Continue to Next Topic </a>
+|[Next Topic](/04_functions/02_user_functions.md)|
+|---|
