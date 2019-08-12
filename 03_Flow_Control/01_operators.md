@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Operators
+---
 
-## Comparison Operators
+## Operators
+
+### Comparison Operators
 
 * **x == y**
   * if x equals y, return True​
@@ -45,21 +48,21 @@ a >= b is True
 a <= b is False
 ```
 
-## Membership Operators
+### Membership Operators
 
 * **in**
   * Evaluates to True if it finds a variable in the checked sequence
 * **not in**
   * Evaluates to True if it does not find a variable in the checked sequence
 
-## Identity Operators
+### Identity Operators
 
 * **is**
   * Evaluates to True if variables on either side of the operator point to the same object 
 * **is not**
   * Evaluates to True if the variables on either side of the operator does not point to the same object
 
-## Boolean Operators
+### Boolean Operators
 
 * **and**
   * Evaluates True if expressions on both sides of the operator are True. 
@@ -88,7 +91,6 @@ a or b is 7
 not a is False
 
 
-
 # Example using 'in' operator
 list1=[1,2,3,4,5]
 list2=[6,7,8,9]
@@ -111,7 +113,7 @@ else:
 # Output: true
 ```
 
-## Assignment Operators
+### Assignment Operators
 
 | Operator | Example | Similar |
 | :---: | :---: | :---: |
@@ -130,4 +132,5 @@ else:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/02_io_print.md" rel="Continue to Next Topci"> Continue to Next Topic </a>
+|[Next Topic](/03_Flow_Control/02_io_print.md)|
+|---|
