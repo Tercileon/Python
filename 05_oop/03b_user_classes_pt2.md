@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# User Classes Pt2
+---
 
-## Encapsulation in Python
+## User Classes Pt2
+
+### Encapsulation in Python
 
 In C++ and other languages, encapsulation is harped on pretty hard and the languages give you features that really allow for such a mechanism. In Python? Not so much. Well, not to the level of which we are used to.
 
@@ -266,6 +269,7 @@ dog.my_method()  # Prints "I am a Dog"
 * [Composition and Inheritance](http://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-3-delegation-composition-and-inheritance/)  
 
 ---
-## Continue to Lab 5C
+**Continue to Performance Lab** 5C
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/lab5c.md" > Continue to Lab 5C </a>
+|[Lab 5C](/05_oop/lab5c.md)|
+|---|
