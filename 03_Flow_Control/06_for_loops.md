@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# For Loops
+---
 
-#### For Loop in C:
+## For Loops
+
+### For Loop in C:
 
 ```c
 char *my_string = "Python";
@@ -11,7 +14,7 @@ for (int i = 0; i < strlen(my_string); i++) {
 }
 ```
 
-#### Python in C Style:
+### Python in C Style:
 
 ```python
 my_string = "Python"
@@ -21,7 +24,7 @@ for i in range(len(my_string)):
 
 While the Python one certainly is shorter and looks cleaner... it's still not Pythonic for our use. Though, there will be times where range\(len\(\)\) formula is useful... mostly when dealing with mutable types.
 
-#### For Loop... Python Style
+### For Loop... Python Style
 
 ```python
 my_string = "Python"
@@ -72,6 +75,9 @@ When a loop repeatedly executes until the controlling condition becomes false.
 When a statement in a function calls itself repeatedly.  
 
 ---
-## Continue to Lab 3E
+**Continue to Performance Lab:** 3E
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/lab3e.md"> Continue to Lab 3E </a>
+---
+
+|[Lab 3E](/03_Flow_Control/lab3e.md)|
+|---|
