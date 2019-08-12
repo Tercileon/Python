@@ -1,12 +1,15 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# List Comprehension
+---
+
+## List Comprehension
 
 Python supports something called "list comprehension". In short, this allows us to write minimal, easy and readable lists in a way like mathematicans do.
 
 ![](../.gitbook/assets/screen-shot-2017-10-20-at-9.29.38-pm.png)
 
-## Steps
+### Steps
 
 Taking a look at the example above, let's break it down into something more understandable.
 
@@ -98,4 +101,5 @@ set([16, 4])
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/04_functions/05_closures_iterators_generators.md" > Continue to Next Topic </a>
+|[Next Topic](/04_functions/05_closures_iterators_generators.md)|
+|---|
