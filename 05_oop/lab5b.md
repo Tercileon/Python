@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab5B
+---
+
+# Lab 5B
 
 ## Instructions
 
@@ -27,4 +30,5 @@ Create a very simple super hero class. Some attributes you will need:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/03b_user_classes_pt2.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/03b_user_classes_pt2.md)|
+|---|
