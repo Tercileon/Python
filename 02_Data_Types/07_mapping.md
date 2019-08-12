@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Dictionaries and Sets
+---
 
-## Mapping Types
+## Dictionaries and Sets
 
-### Dictionary
+### Mapping Types
+
+**Dictionary**
 
 Dictionaries **are mutable** objects and consist of key-value mappings. \(ex: {key: ‘value’, key: ‘value’} \). They are initialized using the curly-brackets {}. Dictionaries are not ordered and support all value types.
 
@@ -179,6 +182,9 @@ sys.getsizeof\(object\) --gets the size of the object passed in bytes. As you ca
 12​
 ```  
 
-## Continue to Lab 2H
+**Continue to Performance Lab:** 2H
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/lab2h.md" rel="Continue to Lab 2H"> Continue to Lab 2H </a>
+---
+
+|[Lab 2H](/02_Data_Types/lab2h.md)|
+|---|
