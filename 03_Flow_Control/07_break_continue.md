@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Break and Continue
+---
+
+## Break and Continue
 
 If further examples are needed of how Break/Continue works, please reference PyDocs.
 
@@ -72,6 +75,10 @@ for i in range(1, 100):​
 Notice how the second print is skipped entirely for even numbers!  
 
 ---
-## Continue to Lab 3F
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/lab3f.md"> Continue to Lab 3F </a>
+**Continue to Performance Lab:** 3F
+
+---
+
+|[Lab 3F](/03_Flow_Control/lab3f.md)|
+|---|
