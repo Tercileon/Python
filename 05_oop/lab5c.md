@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab5C
+---
+
+## Lab5C
 
 ![](../.gitbook/assets/ironman.jpg)
 
-## Instructions
+### Instructions
 
 Update your hero class lab with the following additions:
 
@@ -15,7 +18,7 @@ Update your hero class lab with the following additions:
 * Include user input
 * Use getters and setters
 
-## Requirments
+### Requirments
 
 * Adhere to PEP8 and utilize proper and efficient code
 * Input validation
@@ -25,7 +28,7 @@ Update your hero class lab with the following additions:
 * Create a few instances of your class. Populate it with data utilizing an init and/or getters and setters
 * Split your classes into separate files and import them properly
 
-## Additional:
+### Additional:
 
 * Expand this program into a game or larger program. Some possible ideas:
   * Hero vs Villan
@@ -35,4 +38,5 @@ Update your hero class lab with the following additions:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/04_exceptions.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/04_exceptions.md)|
+|---|
