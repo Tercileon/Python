@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lambda Functions
+---
+
+## Lambda Functions
 
 It's best to start off with some examples:
 
@@ -66,7 +69,7 @@ def reg_function(x): return x**2
 new_stuff = lambda x: x**2
 ```
 
-## Common Lambda Uses
+### Common Lambda Uses
 
 #### map\(\)
 
@@ -83,7 +86,10 @@ new_stuff = lambda x: x**2
 #### [Examples](http://book.pythontips.com/en/latest/map_filter.html)  
 
 ---
-## Continue to Lab 4A and 4B  
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/04_functions/lab4a.md" > Continue to Lab 4a and 4B </a>
+**Continue to Performance Labs:** 4A and 4B  
 
+---
+
+|[Labs 4A & 4B](/04_functions/lab4a.md)|
+|---|
