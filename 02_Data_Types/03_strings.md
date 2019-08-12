@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Strings
+---
+
+## Strings
 
 #### Reference: [Strings](https://docs.python.org/2.7/tutorial/introduction.html#strings)
 
-## What is a sequence object?
+**What is a sequence object?**
 
 A sequence object is a container of items accessed via index. Text strings are technically sequence objects.
 
@@ -17,7 +20,7 @@ A sequence object is a container of items accessed via index. Text strings are t
 
 _Each of the above support built in functions and slicing._
 
-## Sequence Objects: Strings
+**Sequence Objects: Strings**
 
 **Strings are immutable!** They need to be reassigned. There are two independent types of strings:
 
@@ -51,31 +54,30 @@ Yes, this stuff is old school and not very Pythonic... but it can't be helped.
 
 Byte Strings are simply just a sequence of bytes. In Python 2, **bytes** is an alias of str. In other words, they are used interchangeably. In Python 3 on the other hand, str is it's own type... utilizing Unicode \(utf-8\). Whereas the _bytes_ type in Python 3 is still a bytes object in ASCII; an array of integers.
 
-​
 
 **Python 2**
 
 ```python
 >>> x = "I am a string"
 >>> type(x)
-<type 'str'>​
+<type 'str'>
 
->>> x​
+>>> x
 'I am a string'
 
->>> hex(ord(x[0]))​
-0x49​
+>>> hex(ord(x[0]))
+0x49
 ```
 
 **Python 3**
 
 ```python
->>> x = 'I am a string'.encode('ASCII')​
->>> type(x)​
-<class 'bytes'>​
+>>> x = 'I am a string'.encode('ASCII')
+>>> type(x)
+<class 'bytes'>
 
->>> print(hex(x[0]))​
-0x49 # ASCII code for capital I​
+>>> print(hex(x[0]))
+0x49 # ASCII code for capital I
 ```
 
 ```python
@@ -90,25 +92,25 @@ Byte Strings are simply just a sequence of bytes. In Python 2, **bytes** is an a
 
 ```python
 >>> x = u"I am a unicode string"
->>> type(x)​
-<type 'unicode'>​
+>>> type(x)
+<type 'unicode'>
 
->>> y = unicode("Look at me! I’m a unicode string.")​
->>> type(y)​
-<type 'unicode'>​
+>>> y = unicode("Look at me! I’m a unicode string.")
+>>> type(y)
+<type 'unicode'>
 
-# You can use ‘…’ quotes “…” quotes or “””…””” quotes​
+# You can use ‘…’ quotes “…” quotes or “””…””” quotes
 ```
 
 **Python 3**
 
 ```python
 >>> x = 'I am a unicode string'
->>> type(x)​
-<class 'str'>​
-​
-# class str is unicode in Python 3 natively​
-# You can use ‘…’ quotes “…” quotes or “””…””” quotes​
+>>> type(x)
+<class 'str'>
+
+# class str is unicode in Python 3 natively
+# You can use ‘…’ quotes “…” quotes or “””…””” quotes
 ```
 
 ### Slicing
@@ -308,6 +310,9 @@ x.split(",")
   
  
 ---  
-  ## Continue to Lab 2D and 2E
-
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/lab2d_e.md" > Continue to Lab 2D and 2 E </a>
+ **Continue to Performance Labs:** 2D and 2E
+ 
+ ---
+  
+|[Lab 2D & 2E](/02_Data_Types/lab2d_e.md)|
+|---|
