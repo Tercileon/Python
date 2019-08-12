@@ -1,10 +1,14 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Bytes and Bytearray
+---
 
-## Bytes\(\)
+## Bytes and Bytearray
+
+**Bytes\(\)**
 
 It's worth re-mentioning that Python 2 and Python 3 have differences when it comes to bytes and strings. Python 2 strings are bytes naturally whereas Python 3 is unicode and needs to be defined as bytes when you want to use bytes type. Here are a couple ways to turn Python 3 strings and such.. into bytes. This functionality is backwards compatible with Python 2. It's highly recommended you define Python 2 strings the same way if you are going to be modifying the bytes. Even though it doesn't do anything in Python 2... it will make the job of refactoring code easier, if you had to up Python version to 3.x.
+
 
 ```python
 # Method 1 (shortest)
@@ -56,6 +60,7 @@ b'e'
 # Now y is a python 2 str type... bytes/ascii
 ```
 
+---
 ## Bytearray\(\)
 
 **Bytearray\(\)** is a mutable sequence of integers in range of 0 &lt;= x &lt; 256; available in Python 2.6 and later​. Byte Arrays are useful when you need to modify individual bytes in a sequence. Since bytearray\(\) takes in a byte/ASCII string... there is a difference in how we must implement this function between Python 2 and 3.
@@ -66,16 +71,16 @@ Python 2 strings, as noted above, are already byte/ascii strings. So all we have
 
 ```python
 >>> x = "I am a string"
->>> b = bytearray()​
+>>> b = bytearray()
 >>> b.extend(x) 
 # This was done on purpose to show it is mutable 
 # You can pass the str directly into the bytearray() function to cut 2 lines
->>> b​
-bytearray(b'I am a string')​
->>> b[2]​
-97 # decimal for 'a' char​
->>> b[2] = 85​ # Modifying a byte
->>> b​
+>>> b
+bytearray(b'I am a string')
+>>> b[2]
+97 # decimal for 'a' char
+>>> b[2] = 85 # Modifying a byte
+>>> b
 bytearray(b'I Um a string')​ # notice b did change without reassignment
 ```
 
@@ -84,16 +89,20 @@ bytearray(b'I Um a string')​ # notice b did change without reassignment
 Python 3 strings on the other hand need to be converted before you can pass them as an argument into bytearray\(\).
 
 ```python
->>> b = bytearray(b"I am a string")​
->>> b​
-bytearray(b'I am a string')​
->>> b[2]​
-97 # decimal for 'a' char​
->>> b[2] = 85​
-b​
-bytearray(b'I Um a string')​
+>>> b = bytearray(b"I am a string")
+>>> b
+bytearray(b'I am a string')
+>>> b[2]
+97 # decimal for 'a' char
+>>> b[2] = 85
+b
+bytearray(b'I Um a string')
 ```  
 
-## Continue to Lab 2G
+---
+**Continue to Performance Lab** 2G
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/lab2g.md" rel="Continue to Lab 2G"> Continue to Next Lab 2G </a>
+---
+
+|[Lab 2G](/02_Data_Types/lab2g)|
+|---|
