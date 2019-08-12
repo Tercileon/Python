@@ -1,20 +1,23 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 3A
+---
+
+## Lab 3A
 
 ![](../.gitbook/assets/madlibs.png)
 
-## General
+### General
 
 Create your own mad libs game asking the user for input to fill in the blanks. Print out using .format\(\).
 
 \(Humor encouraged\)
 
-## Background
+### Background
 
 "Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime."
 
-## Requirments
+### Requirments
 
 * Adhere to PEP8 \(Comments, formatting, style, etc\)
 * Create a handfull of pharses that require different numbers of inputs
@@ -33,4 +36,6 @@ Create your own mad libs game asking the user for input to fill in the blanks. P
 * Use formatting to not only output the user inputs, but to create a UI within the terminal. Space out certain UI elements such as title of program, choices, menu deceration, etc. 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/03_io_files.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/03_Flow_Control/03_io_files)|
+|---|
