@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# User Functions
+---
+
+## User Functions
 
 Python functions are blocks of reusable code that can be called to accomplish some sort of functionality. Functions are meant to split up the code into functionally organized code that can be reused. In Python, you do not have to return a value.
 
@@ -31,7 +34,7 @@ def name_upper(name):
     <code>
     print(name)
 ```
-## Calling a Function
+### Calling a Function
 
 To call a function, you simply call the function name and pass in any needed arguments. If the function returns a variable, it is wise to call the function and direct the return value into a variable.
 
@@ -53,9 +56,9 @@ def divisible_by(num, amount):
 divisible_by(900, 10)
 ```
 
-## Parameters and Arguments
+### Parameters and Arguments
 
-### Parameters
+#### Parameters
 
 Parameters are defined within the parentheses; they are undefined variables that you want to use within the function. This keeps the global scope clean. We can specify **default parameter** values as well as specify type. A lot of this can be done within the parentheses... but this can lead to unexpected problems. Before we get to default parameters, let's go over a very important topic.
 
@@ -100,7 +103,7 @@ print(x)
 # output: 1,2,3,4
 ```
 
-### Default Parameters
+#### Default Parameters
 
 **Common Way \(but risky\)**
 
@@ -171,7 +174,7 @@ my_func1('two', 3, 'four', 5)
 my_func2(a = 12, b = 'abc')
 ```
 
-## Cmdline Arguments
+### Cmdline Arguments
 
 Arguments can also be passed through the command line or terminal.
 
@@ -207,7 +210,7 @@ print(args.input)
 
 **Reference: Argparse Tutorial**
 
-## Returning
+### Returning
 
 With functions, you have the choice to return a variable. This is done so that the function becomes it's own local scope... keeping the global scope clean from any interference that the function may cause. If you want to bring a local function variable outside of the local scope... return a variable. With that said, returned values can be reassigned. If you find yourself having to return a ton of variables, either use a sequence or mapping object or split up the functionality into additional functions.
 
@@ -220,7 +223,7 @@ initials = create_initials("jack", "black")
 print(initials)
 ```
 
-## Pass by Reference
+### Pass by Reference
 
 Pass by Object Reference simply means that objects passed to the functions are referenced. This is technically what Python does by default. Since the objects are referenced, it can be easy to change the contents of that object; especially mutable objects.
 
@@ -283,4 +286,5 @@ launch()
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/04_functions/03_lambda_functions.md" > Continue to Next Topic </a>
+|[Next Topic](/04_functions/03_lambda_functions.md)|
+|---|
