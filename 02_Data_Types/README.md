@@ -29,5 +29,5 @@
 * A deep understanding of xrange, buffer, set and frozenset and how to use them
 
 ---
-|[Next Topic](/01_variables.md)|
+|[Next Topic](/02_Data_Types/01_variables.md)|
 |---|
