@@ -1,5 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
-# Exceptions
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
+
+## Exceptions
 
 Python exceptions allow you to attempt code that may result in an error and execute additional functionality on said error.
 
@@ -70,8 +74,9 @@ def isInt(x):
 launch()
 ```
 
-![](../.gitbook/assets/screen-shot-2017-10-27-at-8.29.14-am.png)
+![](/assets/screen-shot-2017-10-27-at-8.29.14-am.png)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/05_oop_principles.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/05_oop_principles.md)|
+|---|
