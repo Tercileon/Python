@@ -104,5 +104,5 @@ bytearray(b'I Um a string')
 
 ---
 
-|[Lab 2G](/02_Data_Types/lab2g)|
+|[Lab 2G](/02_Data_Types/lab2g.md)|
 |---|
