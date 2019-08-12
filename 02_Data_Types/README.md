@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Data Types
+---
+
+## Data Types
 
 ### **Topics:**
 
@@ -26,5 +29,5 @@
 * A deep understanding of xrange, buffer, set and frozenset and how to use them
 
 ---
-
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/01_variables.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/01_variables.md)|
+|---|
