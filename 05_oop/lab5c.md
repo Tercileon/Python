@@ -5,7 +5,7 @@
 
 ## Lab5C
 
-![](../.gitbook/assets/ironman.jpg)
+![](/assets/ironman.jpg)
 
 ### Instructions
 
