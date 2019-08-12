@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lists
+---
+
+## Lists
 
 **Reference: Lists**
 
@@ -248,6 +251,7 @@ product = reduce((lambda x, y: x * y), [1, 2, 3, 4])
 
 ---
 
-## Continue to Lab 2F
+**Continue to Performance Lab:** 2F
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/lab2f.md" > Continue to Lab 2F </a>
+|[Lab 2F](/02_Data_Types/lab2f.md)|
+|---|
