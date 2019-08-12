@@ -74,7 +74,7 @@ def isInt(x):
 launch()
 ```
 
-![](/assets/Screen.8.29.14.jpg)
+![](/assets/Screen.8.29.14.png)
 
 
 ---
