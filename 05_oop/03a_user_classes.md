@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# User Classes Pt1
+---
+
+## User Classes Pt1
 
 Classes are used to create objects that bundle data and functionality together. With this, classes are highly reusable, cleaner and more efficient. In other languages, some entites are objects and some are not. In Python, everything is an object. Classes and built-in types were at one point different. But that has all since been merged and both are now objects of type **type**. \(more to come on this later\) Here are some considerations:
 
-## **Keywords**
+### **Keywords**
 
 Reserved words of the language, and cannot be used as ordinary identifiers. Do not use any of these for any naming. They must be spelled exactly as written here:
 
@@ -31,7 +34,7 @@ True
  'while', 'with', 'yield']
 ```
 
-## Creating a Class
+### Creating a Class
 
 Let's take a quick look at an example of a class, using the famous Person example. This example is very basic and will be expanded upon as we go.
 
@@ -206,7 +209,8 @@ x.printDetails()
 ```  
 
 ---
-## Continue to Lab 5B  
+**Continue to Performance Lab:** 5B  
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/lab5b.md" > Continue to Lab 5B </a>
+|[Lab 5B](/05_oop/lab5b.md)|
+|---|
 
