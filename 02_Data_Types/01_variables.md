@@ -69,4 +69,5 @@ print ('a = {} b = {} c = {}'.format(a, b, c))
 
 ---
 
-[Lab 2A](02_Data_Types/lab2a.md)
+|[Lab 2A](/02_Data_Types/lab2a.md)|
+|---|
