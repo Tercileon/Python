@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab5A
+---
 
-## Instructions
+## Lab 5A
+
+### Instructions
 
 Using your calculator you created from Lab4A, split up the functionality into modules and utilize packaging. Some things you could split up:
 
@@ -11,11 +14,12 @@ Using your calculator you created from Lab4A, split up the functionality into mo
 * Algorithms into one module, lower level
 * etc
 
-## Requirements
+### Requirements
 
 * All requirements from Lab4A
 * Utilize clean and proper dir and module names
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/03a_user_classes.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/03a_user_classes.md)|
+|---|
