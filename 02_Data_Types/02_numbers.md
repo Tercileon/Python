@@ -239,5 +239,5 @@ _There are some differences between Python 2 and Python 3 numbers. The biggest d
 
 ---
 
-|[Lab 2B](/02_Data_Types/lab2b_c.md)|
+|[Lab 2B & 2C](/02_Data_Types/lab2b_c.md)|
 |---|
