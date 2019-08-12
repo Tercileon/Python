@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# I/O Print
+---
+
+## I/O Print
 
 Python **print/print\(\)** is very powerful... taking styling from C string formating and adding some of it's own features; allowing for deeper functionality. Pull up PyDocs and reference Py2 and Py3 print, %, and formatting.
 
@@ -189,7 +192,12 @@ Sammy has 8 balloons today!
 | %f | floating point real number |  
 
 ---
-## Continue to Lab 3A  
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/03_Flow_Control/lab3a.md" rel="Continue to Lab 3A"> Continue to Lab 3A </a>
+**Continue to Performance Lab:** 3A  
+
+---
+
+|[Lab 3A](/03_Flow_Control/lab3a.md)|
+|---|
+
 
