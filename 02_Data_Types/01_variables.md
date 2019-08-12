@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Variables
+---
+
+## Variables
 
 ![](../.gitbook/assets/isthisameme.jpg)
 
@@ -62,8 +65,8 @@ print ('a = {} b = {} c = {}'.format(a, b, c))
 
 ![](../.gitbook/assets/mutable.png)
 
-## Continue to Lab 2A
+**Continue to Performance** Lab 2A
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/02_Data_Types/lab2a.md" rel="Continue to Next Topic"> Continue to Lab 2A </a>
+[Lab 2A](02_Data_Types/lab2a.md)
