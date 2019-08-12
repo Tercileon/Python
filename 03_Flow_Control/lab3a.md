@@ -37,5 +37,5 @@ Create your own mad libs game asking the user for input to fill in the blanks. P
 
 ---
 
-|[Next Topic](/03_Flow_Control/03_io_files)|
+|[Next Topic](/03_Flow_Control/03_io_files.md)|
 |---|
