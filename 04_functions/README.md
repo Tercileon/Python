@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Functions
+---
+
+## Functions
 
 ### Topics:
 
@@ -10,7 +13,7 @@
 * **List Comprehension**
 * **Closures, iterators and Generators**
 
-## By the end of this lesson you should know:
+### By the end of this lesson you should know:
 
 * How to define and utilize user functions
 * The difference between local, enclosing-function locals, global/module and built-in scopes
@@ -25,4 +28,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/04_functions/01_scope.md"> Continue to Next Topic </a>
+|[Next Topic](/04_functions/01_scope.md)|
+|---|
