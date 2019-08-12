@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Closures, Iterators & Generators
+---
 
-## Closures
+## Closures, Iterators & Generators
+
+### Closures
 
 A Closure is a function object that remembers values in enclosing scopes regardless of whether those scopes are still present in memory. If you have written a function that returned another function, you probably have used closures without even knowing.
 
@@ -152,4 +155,5 @@ Taking a look at the code above... we created a sequence object and iterated ove
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/README.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/README.md)|
+|---|
