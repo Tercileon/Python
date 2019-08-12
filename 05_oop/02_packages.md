@@ -1,10 +1,13 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Packages
+---
+
+## Packages
 
 Packages are a way to structure Python's module namespace. Essentially a package is just a collection of modules. A module named `__init__.py` is required to treat the directory as a package; allowing the package to be imported the same way a module can be imported. This file can contain initialization code... but it's often best to leave it blank.
 
-## Package Structure
+### Package Structure
 
 ```python
 /                       # Top directory
@@ -54,7 +57,7 @@ Notice the calls to the module. They do behave differently. You can also import 
 
 [More on Packages](https://realpython.com/python-modules-packages/#python-packages)
 
-## Useful Commands
+### Useful Commands
 
 * **dir\(\)**
   * Returns list of names in current local scope or **with argument,** attempts to return a list of valid attributes for object
@@ -79,6 +82,8 @@ print help()
 ```  
 
 ---
-## Continue to Lab 5A  
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/lab5a.md" > Continue to Lab 5A </a>
+**Continue to Performance Lab:** 5A  
+
+|[Lab 5A](/05_oop/lab5a.md)|
+|---|
