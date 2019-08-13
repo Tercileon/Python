@@ -5,7 +5,7 @@
 
 ## Multithreading  
 
-![](../.gitbook/assets/e0d5117bef35ea6a2f1a7baa7c1d029abb76060387f51ba05aa8f7b632782b40.jpg)
+![](/assets/Creepy_Kid.jpg)
 
 **Multithreading is similar to running multiple programs concurrently... but better.** 
 
