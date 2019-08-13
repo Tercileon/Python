@@ -5,7 +5,7 @@
 
 ## Variables
 
-![](../.gitbook/assets/isthisameme.jpg)
+![](/assets/isthisameme.jpg)
 
 ## EVERYTHING IN PYTHON IS AN OBJECT!
 
@@ -63,7 +63,7 @@ print ('a = {} b = {} c = {}'.format(a, b, c))
 
 **Immutable objects** are those that can't be changed without reassigning. Such as int or str. **Mutable objects** are those that can be changed. Such as list or dict. Below is a table with all types and their mutability.
 
-![](../.gitbook/assets/mutable.png)
+![](/assets/mutable.png)
 
 **Continue to Performance** Lab 2A
 
