@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Multithreading  
+---
+
+## Multithreading  
 
 ![](../.gitbook/assets/e0d5117bef35ea6a2f1a7baa7c1d029abb76060387f51ba05aa8f7b632782b40.jpg)
 
@@ -69,4 +72,5 @@ Your output may not look like mine... that is okay. The time in which the worker
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/05_unit_testing.md" > Continue to Next Topic </a>
+|[Next Topic](/06_advanced/05_unit_testing.md)|
+|---|
