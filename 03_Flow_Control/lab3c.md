@@ -5,7 +5,7 @@
 
 ## Lab 3C
 
-![](../.gitbook/assets/funhouse.jpg)
+![](/assets/funhouse.jpg)
 
 ### Instructions
 
