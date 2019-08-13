@@ -5,7 +5,7 @@
 
 ## Introduction
 
-![](/assets/python-logo-master-v3-tm.png)
+![](/assets/python-logo-master-v3-TM.png)
 
 **Note:** Please use 00-Table-of-Contents to navigate this curriculum. That will ensure that you accomplish the topics in the correct order.   
 
