@@ -49,5 +49,5 @@ for a in range(51):
 
 ---
 
-|[Next Topic](/03_Flow_Control/lab3c.md)|
+|[Lab 3C](/03_Flow_Control/lab3c.md)|
 |---|
