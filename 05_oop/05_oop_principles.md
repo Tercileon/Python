@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 ## OOP Principles
 
@@ -105,4 +108,5 @@ All the other rules I’ve taught you about how to make a function nice apply he
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/05_oop/06_oop_terminology.md" > Continue to Next Topic </a>
+|[Next Topic](/05_oop/06_oop_terminology.md)|
+|---|
