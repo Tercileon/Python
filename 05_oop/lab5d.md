@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab5D
+---
 
-![](../.gitbook/assets/supra.jpg)
+# Lab 5D
+
+![](/assets/supra.jpg)
 
 ## Note
 
@@ -61,5 +64,5 @@ Create a game of Rock, Paper, Scissors using classes.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/README.md" > Continue to Next Topic </a>
-
+|[Next Topic](/06_advanced/README.md)|
+|---|
