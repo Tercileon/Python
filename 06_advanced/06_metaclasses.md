@@ -5,7 +5,7 @@
 
 ## Metaclasses  
 
-![](/assets/qq0ok.png)
+![](/assets/QQ0OK.png)
 
 **Defined as “the class of a class”.**
 
