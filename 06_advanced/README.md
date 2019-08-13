@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Advanced
+---
+
+## Advanced
 
 * **Topics:**
   * **CTypes and Structures**
@@ -10,7 +13,7 @@
   * **Unit Testing**
   * **Metaclasses**
 
-## By the end of this lesson you should know:
+### By the end of this lesson you should know:
 
 * What CTypes are and how to utilize them
 * How to utilize structures in Python
@@ -21,4 +24,5 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/01_ctypes.md" > Continue to Next Topic </a>
+|[Next Topic](/06_advanced/01_ctypes.md)|
+|---|
