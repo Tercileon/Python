@@ -1,4 +1,4 @@
-|<a href="https://github.com/Tercileon/A-La-Cart" > Return to Cyber A-La-Carte </a>|
+|[A-La-Carte](/Tercileon/A-La-Cart)|
 |---|
 
 ---
