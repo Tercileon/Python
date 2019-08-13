@@ -7,7 +7,7 @@
 
 ### Lab 4A: Calculator
 
-![](../.gitbook/assets/doge.jpg)
+![](/assets/doge.jpg)
 
 #### Instructions
 
