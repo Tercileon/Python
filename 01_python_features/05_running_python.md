@@ -5,7 +5,7 @@
 
 ## Running Python
 
-![](../.gitbook/assets/interp.png)
+![](/assets/interp.png)
 
 ## Python Interpreter
 
@@ -30,7 +30,7 @@ The Python Interpreter can be launched from the command prompt or terminal using
 * This is all dependent on a number of factors
 * You can create aliases if you wish
 
-![](../.gitbook/assets/interp_start.png)
+![](/assets/interp_start.png)
 
 #### Windows
 
@@ -57,7 +57,7 @@ The Python Interpreter can be launched from the command prompt or terminal using
 
 * Conditionals can be checked and loops can be executed. Be sure to provide indentation. This can be done via pressing the space bar 2 or 4 times per line or pressing tab. 
 
-  ![](../.gitbook/assets/interp_loop.png)
+  ![](/assets/interp_loop.png)
 
 ## Python Source Files
 
