@@ -1,4 +1,4 @@
-|[A-La-Carte](/A-La-Cart)|
+|[A-La-Carte](//A-La-Cart)|
 |---|
 
 ---
