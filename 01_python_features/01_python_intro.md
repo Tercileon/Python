@@ -6,7 +6,7 @@
 
 ## Introduction to Python
 
-![](../.gitbook/assets/guido.jpg)
+![](assets/guido.jpg)
 
 Python is a high level programming language used for generic-purpose programming, created by Gudio van Rossum and released in 1991. Python's design philosophy focuses on code readability and syntax that allows programmers to express concepts in fewer lines of code. It's dynamic type system, auto memory management and standard library rest at it's core. Python is open source.
 
