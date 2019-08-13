@@ -83,4 +83,5 @@ Hello World for Python 3!
 
 ---
 
-[Next Topic](/02_Data_Types/README.md)
+|[Next Topic](/02_Data_Types/README.md)|
+|---|
