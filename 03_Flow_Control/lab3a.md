@@ -5,7 +5,7 @@
 
 ## Lab 3A
 
-![](../.gitbook/assets/madlibs.png)
+![](/assets/madlibs.png)
 
 ### General
 
