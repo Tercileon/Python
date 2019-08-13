@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Additional Libraries and Modules  
+---
 
-## **A few:**
+## Additional Libraries and Modules  
+
+### **A few:**
 
 * sys, os, socket, glob, subprocess, hashlib, shutil, math, json
 * struct
@@ -57,7 +60,7 @@ data = struct.unpack('hh1', data)
 print data
 ```
 
-## JSON
+### JSON
 
 JSON is a lightweight data interchange format inspired by JavaScript object literal syntax. JSON is used in a whole lot of applications and scenarios.
 
@@ -110,4 +113,5 @@ The HitchHiker's guide is an excellent guide on Python that is constantly being 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/04_multithreading.md" > Continue to Next Topic </a>
+|[Next Topic](/06_advanced/04_multithreading.md)|
+|---|
