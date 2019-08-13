@@ -63,6 +63,19 @@ print ('a = {} b = {} c = {}'.format(a, b, c))
 
 **Immutable objects** are those that can't be changed without reassigning. Such as int or str. **Mutable objects** are those that can be changed. Such as list or dict. Below is a table with all types and their mutability.
 
+| Class | Description | Immutable? |
+| :---: | :---: | :---: |
+|bool|Boolean value| x |
+|int|integer (arbitrary magnitude| x |
+|float|floating-point number| x |
+|list|mutable sequence of objects|   |
+|tuple|immutable sequence of objects| x |
+|str|character string| x |
+|set|unordered set of distinct objects|   |
+|frozenset|immutable form of set class| x |
+|dict|associative mapping (aka dictionary) |   |
+
+
 ![](/assets/mutable.png)
 
 **Continue to Performance** Lab 2A
