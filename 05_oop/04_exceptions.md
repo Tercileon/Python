@@ -74,8 +74,27 @@ def isInt(x):
 launch()
 ```
 
-![](/assets/SS-8.29.14.png)
-
+```python
+ 
+class CustomError(Exception):
+    def _init_(self, msg):
+        self.msg = msg
+         
+    def _str_(self):
+        return "your error is {}".format(self.msg)
+         
+    def doStuff(danger):
+        if danger == True:
+            raise CustomError("Whoa don't do that!")
+            print("Success") #What happens here?
+ 
+try:
+    doStuff(True)
+    
+except CustomError as stuff:
+    print(stuff)
+    
+```
 
 ---
 
