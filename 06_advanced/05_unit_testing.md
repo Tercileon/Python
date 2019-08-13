@@ -1,6 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# UnitTesting  
+---
 
 ## UnitTesting
 
@@ -109,4 +110,5 @@ As you have guessed, this can be insanly useful. In most cases, spending the ext
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/06_metaclasses.md" > Continue to Next Topic </a>
+|[Next Topic](/06_advanced/06_metaclasses.md)
+|---|
