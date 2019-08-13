@@ -10,9 +10,9 @@
 * Write a file that prints out the first 100 numbers in the Fibonacci sequence iteratively 
 * Revist this lab and create a Fibonacci recursive function
 
-![](../.gitbook/assets/13import.png)
+![](/assets/13import.png)
 
-![](../.gitbook/assets/14import.png)
+![](/assets/14import.png)
 
 ### Requirments:
 
