@@ -35,7 +35,7 @@ To declare a string, use one of the following. There is no Pythonic way aside fr
 * """triple quoted-multiline"""
 * r"\"raw\" strings"
 
-![](../.gitbook/assets/strings.png)
+![](/assets/strings.png)
 
 ### String Prefixes
 
