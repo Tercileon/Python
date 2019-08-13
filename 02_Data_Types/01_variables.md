@@ -75,10 +75,9 @@ print ('a = {} b = {} c = {}'.format(a, b, c))
 |frozenset|immutable form of set class| x |
 |dict|associative mapping (aka dictionary) |   |
 
+---
 
-![](/assets/mutable.png)
-
-**Continue to Performance** Lab 2A
+**Continue to Performance Lab:** 2A
 
 ---
 
