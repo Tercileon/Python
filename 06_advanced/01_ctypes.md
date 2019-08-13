@@ -72,7 +72,7 @@ Unfortunately, all the built-in Python types except integers, strings, and bytes
 
 ## Data Types
 
-![](/assets/Capture.jpg)
+![](/assets/Capture.JPG)
 
 As you can see, this table does not contain dedicated types that would reflect any of the Python collections as C arrays. The recommended way to create types for C arrays is to simply use the multiplication operator with the desired basic `ctypes` type:
 
