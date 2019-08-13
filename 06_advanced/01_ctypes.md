@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# CTypes and Structures
+---
+
+## CTypes and Structures
 
 **CTypes** provide C compatible data types and allow function calls from DLLs or shared libraries without having to write custom C extensions for every operation. So we can access the functionality of a C library from the safety and comfort of the **Python Standard Library.**
 
@@ -131,4 +134,5 @@ print my_struct.field_1, my_struct.field_2
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/06_advanced/02_regular_expressions.md" > Continue to Next Topic </a>
+|[Next Topic](/06_advanced/02_regular_expressions.md)|
+|---|
