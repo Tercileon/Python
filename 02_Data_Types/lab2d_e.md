@@ -1,8 +1,11 @@
-<a href="https://github.com/CyberTrainingUSAF/07-Python-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 2D & Lab2E
+---
 
-## Lab 2D: Strings
+## Lab 2D & Lab2E
+
+**Lab 2D: Strings**
 
 **Instructions:**
 
@@ -10,7 +13,7 @@ Write a program that reverses a user inputted string then outputs the new string
 
 **Bonus:** Add additional functionality, experiment with other string methods.
 
-## Lab 2E: Count Words
+**Lab 2E: Count Words**
 
 **Instructions:**
 
