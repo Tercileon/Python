@@ -3,7 +3,7 @@
 
 ---
 
-# Lab 1A
+# Setup
 
 Now that we learned the background behind Python, lets get to coding. Since Python is cross-platform, you can use whatever OS and text editor/IDE that you'd like. Below are my recommendations:
 
