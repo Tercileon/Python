@@ -16,5 +16,5 @@ Python has no unboxed or primitive types, no machine values. Instead, **everythi
 
 Please complete performance lab 1A prior to continuing to the next topic.
 
-|[Lab 1A](/01_python_features/lab1a.md)|
+|[Setup](/01_python_features/lab1a.md)|
 |---|
