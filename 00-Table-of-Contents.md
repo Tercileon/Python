@@ -10,7 +10,7 @@
   * [Introduction to Python](01_python_features/01_python_intro.md)
   * [PyDocs & PEP8](01_python_features/02_pydocs_pep8.md)
   * [Objects](01_python_features/03_objects.md)
-  * [Lab 1A](01_python_features/lab1a.md)
+  * [Setup](01_python_features/lab1a.md)
   * [Py2 vs Py3 Differences](01_python_features/04_py2_py3.md)
   * [Running Python](01_python_features/05_running_python.md)
 * [Data Types](02_Data_Types/README.md)
