@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -181,7 +181,7 @@ sys.getsizeof\(object\) --gets the size of the object passed in bytes. As you ca
 >>> sys.getsizeof(x)​
 12​
 ```  
-
+---
 **Continue to Performance Lab:** 2H
 
 ---
