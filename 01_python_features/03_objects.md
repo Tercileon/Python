@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -12,9 +12,9 @@ Python has no unboxed or primitive types, no machine values. Instead, **everythi
 
 ---
 
-**Performance Lab**
+**Setting up your Python environment (lab 1A)**
 
-Please complete performance lab 1A prior to continuing to the next topic.
+Please complete lab 1A setting up your Python environment.
 
 |[Setup](/01_python_features/lab1a.md)|
 |---|
