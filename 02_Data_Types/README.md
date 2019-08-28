@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -29,5 +29,6 @@
 * A deep understanding of xrange, buffer, set and frozenset and how to use them
 
 ---
+
 |[Next Topic](/02_Data_Types/01_variables.md)|
 |---|
