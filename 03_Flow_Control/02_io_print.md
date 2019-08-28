@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -199,5 +199,3 @@ Sammy has 8 balloons today!
 
 |[Lab 3A](/03_Flow_Control/lab3a.md)|
 |---|
-
-
