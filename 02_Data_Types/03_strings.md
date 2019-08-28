@@ -307,8 +307,7 @@ x.split(",")
 * swapcase​
 * center​
 * ljust, rjust​  
-  
- 
+   
 ---  
  **Continue to Performance Labs:** 2D and 2E
  
