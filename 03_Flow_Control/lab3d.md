@@ -1,6 +1,7 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
+---
 ## Lab 3D
 
 ### Instructions
