@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -193,5 +193,6 @@ def function_name(parameters, named_default_parameter=value):
 **Continue to Performance Lab:** 5D
 
 ---
+
 |[Lab 5D](/05_oop/lab5d.md)|
 |---|
