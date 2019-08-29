@@ -1,4 +1,4 @@
-|[Return to Table of Contents](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -209,8 +209,8 @@ x.printDetails()
 ```  
 
 ---
+
 **Continue to Performance Lab:** 5B  
 
 |[Lab 5B](/05_oop/lab5b.md)|
 |---|
-
